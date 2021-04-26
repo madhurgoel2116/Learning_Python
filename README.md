@@ -7,4 +7,4 @@ Lab 4:Operation on Tuples and List
 
 Lab 5: Operation on List
 
-Lab 6: Operation on dictionary
+Lab 6: Operation on dictionary and sets
