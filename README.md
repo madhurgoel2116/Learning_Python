@@ -12,3 +12,9 @@ Lab 5: Operation on List
 Lab 6: Operation on dictionary and sets
 
 Lab-7: Functions
+
+Lab-8: UML, Object-Oriented Programming
+
+Lab-9: Class inheritance & Method overriding 
+
+Lab-10: Series and Data-Frames
